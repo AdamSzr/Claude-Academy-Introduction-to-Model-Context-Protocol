@@ -1,8 +1,6 @@
 from typing import Any
 from mcp_client import MCPClient
 from core.tools import ToolManager
-from core.ollama_service import OllamaService
-
 
 class Chat:
     def __init__(

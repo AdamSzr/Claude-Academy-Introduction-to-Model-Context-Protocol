@@ -1,9 +1,10 @@
 # lesson 5 - Implementing a client
 
+https://academy.claude.com/courses/introduction-to-model-context-protocol/implementing-a-client
 
-## Test MCP server with MCP-Inspector
+## Test MCP Client with MCP-Inspector
 ```bash
-uv run mcp dev mcp_server.py
+uv run mcp_client.py
 ```
 
 
